@@ -76,7 +76,7 @@ Overlay Stats currently tracks CPU and RAM, but we are expanding to make it the 
 
 ### Author & Contributing
 
-Built by [Vansh Goyal](https://github.com/vansh-goyal) (Update link with your exact GitHub URL). 
+Built by [Vansh Goyal](https://github.com/vanshcodeworks) 
 
 
 Pull requests are always welcome! If you want to tackle any of the features on the roadmap, feel free to open an issue to discuss it.
